@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Calendar from './Calendar';
-import { getDateProps } from '../../utils/date'; 
+import Calendar from '.components/Calendar';
+import { getDateProps } from './utils/date'; 
 
 class Dashboard extends Component {
     constructor(){
