@@ -1,5 +1,5 @@
 ## React Calendar
 
-This is a pretty basic calendar I made for a React project. I've stripped parts out of it rrom the original project for brevity. It's boostrapped with Create-React-App.
+This is a pretty basic calendar I made for a React project. I've stripped parts out of it from the original project for brevity.
 
-Just add the component to your app and it should work fine. The root component is 'Dashboard'.
+Add the root component (Which is Dashboard in the components folder) to your app and you should be up and running.
