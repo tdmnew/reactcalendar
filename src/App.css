@@ -40,7 +40,7 @@ td {
 
 @media (max-width: 400px) {
 
-#mobileLayout, #appContainer, #calender, #habitsPanel {
+#calender {
 	padding: 0px;
 }
 
