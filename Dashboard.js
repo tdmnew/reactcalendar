@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Calendar from './src/components/Calendar';
+import Calendar from './src/components/dashboard/Calendar';
 import { getDateProps } from './src/utils/date'; 
 
 class Dashboard extends Component {
